@@ -39,3 +39,4 @@ gem 'jekyll-seo-tag'
 gem 'jemoji'
 gem "webrick", "~> 1.8"
 gem 'jekyll-sitemap'
+gem 'csv'
