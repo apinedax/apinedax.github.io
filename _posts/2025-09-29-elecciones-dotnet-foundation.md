@@ -6,6 +6,8 @@ categories: [Comunidad, .NET]
 tags: [dotnet, dotnet-foundation, elecciones, open-source, comunidad]
 excerpt: "Resumen de las elecciones 2025–2026 de la .NET Foundation, con contexto, candidatos destacados, tendencias y cómo participar."
 permalink: /blog/dotnet-foundation-elecciones-2025-2026/
+toc: true
+toc_sticky: true
 ---
 
 La **.NET Foundation** ha abierto oficialmente el proceso de elecciones para su **Junta Directiva 2025–2026**, y ya se han dado a conocer los candidatos. Esta es una gran oportunidad para que la comunidad .NET participe activamente en la construcción del futuro de nuestro ecosistema.  
