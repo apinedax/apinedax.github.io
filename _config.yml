@@ -20,9 +20,9 @@
 
 title: pinedax
 email: 
-subtitle: Un blog de una persona normal.
+subtitle: Un blog de tecnología, programación y crecimiento personal.
 description: >- # this means to ignore newlines until "baseurl:"
-  Hola 👋, mi nombre es Andres Pineda y soy un desarrollador de aplicaciones.
+  Hola 👋, mi nombre es Andres Pineda y soy un desarrollador de aplicaciones, muy involucrado con las comunidades.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pinedax_dev
@@ -49,6 +49,10 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "aqua"
 locale: "es"
 search: true
+
+# Custom JavaScript
+footer_scripts:
+  - /assets/js/spanish-translations.js
 defaults:
   - scope:
       path: ""
