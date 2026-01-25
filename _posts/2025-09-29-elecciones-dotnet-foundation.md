@@ -1,15 +1,13 @@
 ---
-layout: post
-title: "🗳️ Elecciones 2025–2026 de la .NET Foundation: conoce a los candidatos"
+layout: single
+title: "Elecciones 2025–2026 de la .NET Foundation: conoce a los candidatos!"
 date: 2025-09-29 10:00:00 -0400
-lang: es
 categories: [Comunidad, .NET]
 tags: [dotnet, dotnet-foundation, elecciones, open-source, comunidad]
-author: Andres Pineda
-description: "Resumen de las elecciones 2025–2026 de la .NET Foundation, con contexto, candidatos destacados, tendencias y cómo participar."
+excerpt: "Resumen de las elecciones 2025–2026 de la .NET Foundation, con contexto, candidatos destacados, tendencias y cómo participar."
 permalink: /blog/dotnet-foundation-elecciones-2025-2026/
-canonical_url: https://dotnetfoundation.org/board-elections/candidates
 toc: true
+toc_sticky: true
 ---
 
 La **.NET Foundation** ha abierto oficialmente el proceso de elecciones para su **Junta Directiva 2025–2026**, y ya se han dado a conocer los candidatos. Esta es una gran oportunidad para que la comunidad .NET participe activamente en la construcción del futuro de nuestro ecosistema.  
@@ -86,3 +84,8 @@ Tengo mis preferencias, pero se que cualquiera que resulte electo tendrá un gra
 ## Mas sobre la .NET Foundation
 
 Si quieres saber más sobre la .NET Foundation, su misión y proyectos, visita: [dotnetfoundation.org](https://dotnetfoundation.org). La comunidad de .NET en Santo Domingo ([dotnetdo](https://www.meetup.com/dotnetdo/)) hizo un [resumen en español](https://www.youtube.com/watch?v=Mx_Jmn97Eko) que puede ser muy útil.
+
+
+O bien, puedes verlo embebido a continuación:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mx_Jmn97Eko" title="Resumen en español de la .NET Foundation" frameborder="0" allowfullscreen></iframe>

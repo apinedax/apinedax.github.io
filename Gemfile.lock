@@ -27,6 +27,7 @@ GEM
     commonmarker (0.23.12)
     concurrent-ruby (1.2.2)
     connection_pool (3.0.2)
+    csv (3.3.5)
     dnsruby (1.73.1)
       base64 (>= 0.2)
       logger (~> 1.6)
@@ -290,6 +291,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  csv
   github-pages (~> 231)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.13)
