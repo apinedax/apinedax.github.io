@@ -1,131 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-09-30T22:18:28-04:00</updated><id>/feed.xml</id><title type="html">pinedax</title><subtitle>Hola 👋, mi nombre es Andres Pineda y soy un desarrollador de aplicaciones.</subtitle><author><name>Andres Pineda</name></author><entry><title type="html">Elecciones 2025–2026 de la .NET Foundation: conoce a los candidatos!</title><link href="/blog/dotnet-foundation-elecciones-2025-2026/" rel="alternate" type="text/html" title="Elecciones 2025–2026 de la .NET Foundation: conoce a los candidatos!" /><published>2025-09-29T10:00:00-04:00</published><updated>2025-09-29T10:00:00-04:00</updated><id>/blog/elecciones-dotnet-foundation</id><content type="html" xml:base="/blog/dotnet-foundation-elecciones-2025-2026/">&lt;p&gt;La &lt;strong&gt;.NET Foundation&lt;/strong&gt; ha abierto oficialmente el proceso de elecciones para su &lt;strong&gt;Junta Directiva 2025–2026&lt;/strong&gt;, y ya se han dado a conocer los candidatos. Esta es una gran oportunidad para que la comunidad .NET participe activamente en la construcción del futuro de nuestro ecosistema.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-01-24T23:35:34-05:00</updated><id>/feed.xml</id><title type="html">pinedax</title><subtitle>Hola 👋, mi nombre es Andres Pineda y soy un desarrollador de aplicaciones, muy involucrado con las comunidades.</subtitle><author><name>Andres Pineda</name></author><entry><title type="html">Elecciones 2025–2026 de la .NET Foundation: conoce a los candidatos!</title><link href="/blog/dotnet-foundation-elecciones-2025-2026/" rel="alternate" type="text/html" title="Elecciones 2025–2026 de la .NET Foundation: conoce a los candidatos!" /><published>2025-09-29T10:00:00-04:00</published><updated>2025-09-29T10:00:00-04:00</updated><id>/blog/elecciones-dotnet-foundation</id><content type="html" xml:base="/blog/dotnet-foundation-elecciones-2025-2026/"><![CDATA[<p>La <strong>.NET Foundation</strong> ha abierto oficialmente el proceso de elecciones para su <strong>Junta Directiva 2025–2026</strong>, y ya se han dado a conocer los candidatos. Esta es una gran oportunidad para que la comunidad .NET participe activamente en la construcción del futuro de nuestro ecosistema.</p>
 
-&lt;p&gt;En este post comparto un repaso de lo que significan estas elecciones, quiénes son los nominados y qué tendencias marcan sus propuestas.&lt;/p&gt;
+<p>En este post comparto un repaso de lo que significan estas elecciones, quiénes son los nominados y qué tendencias marcan sus propuestas.</p>
 
-&lt;p&gt;Lista oficial de candidatos: &lt;a href=&quot;https://dotnetfoundation.org/board-elections/candidates&quot;&gt;dotnetfoundation.org/board-elections/candidates&lt;/a&gt;&lt;/p&gt;
+<p>Lista oficial de candidatos: <a href="https://dotnetfoundation.org/board-elections/candidates">dotnetfoundation.org/board-elections/candidates</a></p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;h2 id=&quot;por-qué-son-importantes-estas-elecciones&quot;&gt;¿Por qué son importantes estas elecciones?&lt;/h2&gt;
+<h2 id="por-qué-son-importantes-estas-elecciones">¿Por qué son importantes estas elecciones?</h2>
 
-&lt;p&gt;La Junta Directiva de la .NET Foundation es el órgano encargado de &lt;strong&gt;definir la visión estratégica&lt;/strong&gt;, &lt;strong&gt;apoyar proyectos open source&lt;/strong&gt;, &lt;strong&gt;mantener la transparencia&lt;/strong&gt; y representar a la comunidad en decisiones que afectan al ecosistema.&lt;/p&gt;
+<p>La Junta Directiva de la .NET Foundation es el órgano encargado de <strong>definir la visión estratégica</strong>, <strong>apoyar proyectos open source</strong>, <strong>mantener la transparencia</strong> y representar a la comunidad en decisiones que afectan al ecosistema.</p>
 
-&lt;p&gt;Quienes resulten electos influirán en cómo se apoya a los mantenedores, qué iniciativas se financian y cuál es la relación con Microsoft y otros actores. En otras palabras: de estas elecciones depende gran parte del futuro de .NET como comunidad global.&lt;/p&gt;
+<p>Quienes resulten electos influirán en cómo se apoya a los mantenedores, qué iniciativas se financian y cuál es la relación con Microsoft y otros actores. En otras palabras: de estas elecciones depende gran parte del futuro de .NET como comunidad global.</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;h2 id=&quot;qué-debemos-considerar-al-elegir&quot;&gt;¿Qué debemos considerar al elegir?&lt;/h2&gt;
+<h2 id="qué-debemos-considerar-al-elegir">¿Qué debemos considerar al elegir?</h2>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Experiencia en proyectos .NET y open source&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Liderazgo y compromiso comunitario&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Propuestas concretas&lt;/strong&gt; para mejorar gobernanza y soporte&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Equilibrio&lt;/strong&gt; entre independencia y colaboración con Microsoft&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Diversidad geográfica&lt;/strong&gt; e inclusión de nuevas voces&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li><strong>Experiencia en proyectos .NET y open source</strong></li>
+  <li><strong>Liderazgo y compromiso comunitario</strong></li>
+  <li><strong>Propuestas concretas</strong> para mejorar gobernanza y soporte</li>
+  <li><strong>Equilibrio</strong> entre independencia y colaboración con Microsoft</li>
+  <li><strong>Diversidad geográfica</strong> e inclusión de nuevas voces</li>
+</ul>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;h2 id=&quot;los-candidatos-y-sus-enfoques&quot;&gt;Los candidatos y sus enfoques&lt;/h2&gt;
+<h2 id="los-candidatos-y-sus-enfoques">Los candidatos y sus enfoques</h2>
 
-&lt;p&gt;La lista de nominados refleja diversidad en &lt;strong&gt;regiones, perfiles técnicos y experiencias&lt;/strong&gt;. Aquí algunos ejemplos y el enfoque que traen:&lt;/p&gt;
+<p>La lista de nominados refleja diversidad en <strong>regiones, perfiles técnicos y experiencias</strong>. Aquí algunos ejemplos y el enfoque que traen:</p>
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Nombre&lt;/th&gt;
-      &lt;th&gt;Perfil / Trayectoria&lt;/th&gt;
-      &lt;th&gt;Propuesta destacada&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Peter Smulovics&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Experiencia en .NET, C#, Visual Studio.&lt;/td&gt;
-      &lt;td&gt;Herramientas de soporte e infraestructura.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Jonathan “J.” Tower&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;MVP, fundador y mentor.&lt;/td&gt;
-      &lt;td&gt;Escucha comunitaria y crecimiento de nuevos líderes.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Savino Carlone&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Backend en C#, comunidad italiana.&lt;/td&gt;
-      &lt;td&gt;Liderazgo regional y cercanía local.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Dr. Durgesh Singh&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Azure, mentoría en India.&lt;/td&gt;
-      &lt;td&gt;Alcance global y apoyo a nuevos contribuidores.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Divyesh Govardhanan&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Arquitectura en Azure/.NET.&lt;/td&gt;
-      &lt;td&gt;Más transparencia y gobernanza clara.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Chris Pulman&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;IoT y proyectos de la Fundación.&lt;/td&gt;
-      &lt;td&gt;Documentación y accesibilidad para nuevos devs.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Irina Dominte (Scurtu)&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Arquitecta y conferencista.&lt;/td&gt;
-      &lt;td&gt;Inclusión, transparencia y reconstrucción de confianza.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Peter Ritchie&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Autor y veterano en la industria.&lt;/td&gt;
-      &lt;td&gt;Licencias claras y compensación a mantenedores.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Vladislav Antonyuk&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Ingeniero y académico.&lt;/td&gt;
-      &lt;td&gt;Procesos de RFC y soporte técnico a proyectos.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Aneesh Gopalakrishnan&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Activo en infraestructura de la Fundación.&lt;/td&gt;
-      &lt;td&gt;Soluciones prácticas para reducir carga de mantenedores.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<table>
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Perfil / Trayectoria</th>
+      <th>Propuesta destacada</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Peter Smulovics</strong></td>
+      <td>Experiencia en .NET, C#, Visual Studio.</td>
+      <td>Herramientas de soporte e infraestructura.</td>
+    </tr>
+    <tr>
+      <td><strong>Jonathan “J.” Tower</strong></td>
+      <td>MVP, fundador y mentor.</td>
+      <td>Escucha comunitaria y crecimiento de nuevos líderes.</td>
+    </tr>
+    <tr>
+      <td><strong>Savino Carlone</strong></td>
+      <td>Backend en C#, comunidad italiana.</td>
+      <td>Liderazgo regional y cercanía local.</td>
+    </tr>
+    <tr>
+      <td><strong>Dr. Durgesh Singh</strong></td>
+      <td>Azure, mentoría en India.</td>
+      <td>Alcance global y apoyo a nuevos contribuidores.</td>
+    </tr>
+    <tr>
+      <td><strong>Divyesh Govardhanan</strong></td>
+      <td>Arquitectura en Azure/.NET.</td>
+      <td>Más transparencia y gobernanza clara.</td>
+    </tr>
+    <tr>
+      <td><strong>Chris Pulman</strong></td>
+      <td>IoT y proyectos de la Fundación.</td>
+      <td>Documentación y accesibilidad para nuevos devs.</td>
+    </tr>
+    <tr>
+      <td><strong>Irina Dominte (Scurtu)</strong></td>
+      <td>Arquitecta y conferencista.</td>
+      <td>Inclusión, transparencia y reconstrucción de confianza.</td>
+    </tr>
+    <tr>
+      <td><strong>Peter Ritchie</strong></td>
+      <td>Autor y veterano en la industria.</td>
+      <td>Licencias claras y compensación a mantenedores.</td>
+    </tr>
+    <tr>
+      <td><strong>Vladislav Antonyuk</strong></td>
+      <td>Ingeniero y académico.</td>
+      <td>Procesos de RFC y soporte técnico a proyectos.</td>
+    </tr>
+    <tr>
+      <td><strong>Aneesh Gopalakrishnan</strong></td>
+      <td>Activo en infraestructura de la Fundación.</td>
+      <td>Soluciones prácticas para reducir carga de mantenedores.</td>
+    </tr>
+  </tbody>
+</table>
 
-&lt;blockquote&gt;
-  &lt;p&gt;Puedes consultar la &lt;strong&gt;lista completa&lt;/strong&gt; y los detalles en la página oficial.&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote>
+  <p>Puedes consultar la <strong>lista completa</strong> y los detalles en la página oficial.</p>
+</blockquote>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;h2 id=&quot;cómo-participar&quot;&gt;¿Cómo participar?&lt;/h2&gt;
+<h2 id="cómo-participar">¿Cómo participar?</h2>
 
-&lt;p&gt;Si eres miembro de la .NET Foundation, podrás votar en las fechas indicadas en la web oficial.&lt;/p&gt;
+<p>Si eres miembro de la .NET Foundation, podrás votar en las fechas indicadas en la web oficial.</p>
 
-&lt;p&gt;Puedes hacerte miembro usando el siguiente enlace: &lt;a href=&quot;https://dotnetfoundation.org/join&quot;&gt;dotnetfoundation.org/join&lt;/a&gt; (es gratis y solo toma unos minutos).&lt;/p&gt;
+<p>Puedes hacerte miembro usando el siguiente enlace: <a href="https://dotnetfoundation.org/join">dotnetfoundation.org/join</a> (es gratis y solo toma unos minutos).</p>
 
-&lt;p&gt;Tu participación es clave: no solo se trata de elegir personas, sino de definir el rumbo que queremos para el futuro de .NET.&lt;/p&gt;
+<p>Tu participación es clave: no solo se trata de elegir personas, sino de definir el rumbo que queremos para el futuro de .NET.</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;p&gt;Estas elecciones son un momento importante para que la comunidad haga escuchar su voz. Revisa los perfiles, lee las propuestas y &lt;strong&gt;vota de manera informada&lt;/strong&gt;.&lt;/p&gt;
+<p>Estas elecciones son un momento importante para que la comunidad haga escuchar su voz. Revisa los perfiles, lee las propuestas y <strong>vota de manera informada</strong>.</p>
 
-&lt;p&gt;Candidatos y detalles: &lt;a href=&quot;https://dotnetfoundation.org/board-elections/candidates&quot;&gt;dotnetfoundation.org/board-elections/candidates&lt;/a&gt;&lt;/p&gt;
+<p>Candidatos y detalles: <a href="https://dotnetfoundation.org/board-elections/candidates">dotnetfoundation.org/board-elections/candidates</a></p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;h2 id=&quot;reflexión-personal&quot;&gt;Reflexión personal&lt;/h2&gt;
+<h2 id="reflexión-personal">Reflexión personal</h2>
 
-&lt;p&gt;Lo interesante de esta elección es la mezcla de candidatos con &lt;strong&gt;experiencia interna&lt;/strong&gt; en la Fundación (que conocen los procesos) y &lt;strong&gt;miradas externas frescas&lt;/strong&gt; que pueden impulsar cambios.&lt;/p&gt;
+<p>Lo interesante de esta elección es la mezcla de candidatos con <strong>experiencia interna</strong> en la Fundación (que conocen los procesos) y <strong>miradas externas frescas</strong> que pueden impulsar cambios.</p>
 
-&lt;p&gt;También es notable la &lt;strong&gt;diversidad geográfica&lt;/strong&gt; y de experiencias, lo que refleja el alcance global de .NET.&lt;/p&gt;
+<p>También es notable la <strong>diversidad geográfica</strong> y de experiencias, lo que refleja el alcance global de .NET.</p>
 
-&lt;p&gt;Tengo mis preferencias, pero se que cualquiera que resulte electo tendrá un gran desafío por delante y hará un trabajo importante.&lt;/p&gt;
+<p>Tengo mis preferencias, pero se que cualquiera que resulte electo tendrá un gran desafío por delante y hará un trabajo importante.</p>
 
-&lt;h2 id=&quot;mas-sobre-la-net-foundation&quot;&gt;Mas sobre la .NET Foundation&lt;/h2&gt;
+<h2 id="mas-sobre-la-net-foundation">Mas sobre la .NET Foundation</h2>
 
-&lt;p&gt;Si quieres saber más sobre la .NET Foundation, su misión y proyectos, visita: &lt;a href=&quot;https://dotnetfoundation.org&quot;&gt;dotnetfoundation.org&lt;/a&gt;. La comunidad de .NET en Santo Domingo (&lt;a href=&quot;https://www.meetup.com/dotnetdo/&quot;&gt;dotnetdo&lt;/a&gt;) hizo un &lt;a href=&quot;https://www.youtube.com/watch?v=Mx_Jmn97Eko&quot;&gt;resumen en español&lt;/a&gt; que puede ser muy útil.&lt;/p&gt;
+<p>Si quieres saber más sobre la .NET Foundation, su misión y proyectos, visita: <a href="https://dotnetfoundation.org">dotnetfoundation.org</a>. La comunidad de .NET en Santo Domingo (<a href="https://www.meetup.com/dotnetdo/">dotnetdo</a>) hizo un <a href="https://www.youtube.com/watch?v=Mx_Jmn97Eko">resumen en español</a> que puede ser muy útil.</p>
 
-&lt;p&gt;O bien, puedes verlo embebido a continuación:&lt;/p&gt;
+<p>O bien, puedes verlo embebido a continuación:</p>
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Mx_Jmn97Eko&quot; title=&quot;Resumen en español de la .NET Foundation&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Andres Pineda</name></author><category term="Comunidad" /><category term=".NET" /><category term="dotnet" /><category term="dotnet-foundation" /><category term="elecciones" /><category term="open-source" /><category term="comunidad" /><summary type="html">Resumen de las elecciones 2025–2026 de la .NET Foundation, con contexto, candidatos destacados, tendencias y cómo participar.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/profile.png" /><media:content medium="image" url="/assets/images/profile.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mx_Jmn97Eko" title="Resumen en español de la .NET Foundation" frameborder="0" allowfullscreen=""></iframe>]]></content><author><name>Andres Pineda</name></author><category term="Comunidad" /><category term=".NET" /><category term="dotnet" /><category term="dotnet-foundation" /><category term="elecciones" /><category term="open-source" /><category term="comunidad" /><summary type="html"><![CDATA[Resumen de las elecciones 2025–2026 de la .NET Foundation, con contexto, candidatos destacados, tendencias y cómo participar.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/profile.png" /><media:content medium="image" url="/assets/images/profile.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
